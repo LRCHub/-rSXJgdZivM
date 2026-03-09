@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "言葉",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-03-09T11:28:51.753009Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "言葉",
+      "artist": "ウカスカジー",
+      "has_synced": false,
+      "path": "select/01_言葉_ウカスカジー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "言葉, 夢想",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/02_言葉,_夢想_chouchou_merged_syrups..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "言葉、夢想",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/03_言葉、夢想_chouchou_merged_syrups..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "言葉、心の声",
+      "artist": "Kawada, Mami",
+      "has_synced": true,
+      "path": "select/04_言葉、心の声_Kawada,_Mami.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "言葉、心の声",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/05_言葉、心の声_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "言葉≧Imitation",
+      "artist": "やいり",
+      "has_synced": true,
+      "path": "select/06_言葉≧Imitation_やいり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言葉",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_言葉_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
